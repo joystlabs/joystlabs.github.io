@@ -1,16 +1,6 @@
 (updated 05/09/2025)
 
 #admob
-google.com, pub-9819920607806935, DIRECT, f08c47fec0942fa0
-google.com, pub-9819920607806935, RESELLER, f08c47fec0942fa0
-google.com, pub-7284919511342054, DIRECT, f08c47fec0942fa0
-google.com, pub-9179752697212712, DIRECT, f08c47fec0942fa0
-google.com, pub-9201426349309188, DIRECT, f08c47fec0942fa0
-google.com, pub-3470153783051241, DIRECT, f08c47fec0942fa0
-google.com, pub-3297826949868421, DIRECT, f08c47fec0942fa0
-google.com, pub-7002491002409919, RESELLER, f08c47fec0942fa0
-google.com, pub-7002491002409919, DIRECT, f08c47fec0942fa0
-google.com, pub-3345124885896772, DIRECT, f08c47fec0942fa0
 google.com, pub-1279916151276341, DIRECT, f08c47fec0942fa0
 
 #meta
