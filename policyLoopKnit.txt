@@ -45,8 +45,13 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 - Face Data and Biometric Information
 LoopKnit AI: Pattern Maker does not collect, use, store, analyze, or share face data, facial geometry, facial recognition data, or any biometric identifiers.
 If a user selects or uploads an image that contains a person’s face, the image is used only as user-provided content for generating a knitting pattern. The app does not perform facial recognition, face detection, face tracking, identity verification, emotion analysis, or biometric analysis.
-
 No face data is retained by the app, and no face data is shared with third parties.
+
+- AI Processing
+LoopKnit AI: Pattern Maker uses Google Gemini, a third-party pre-trained AI service, to process user-provided images and generate knitting or crochet pattern-related results.
+User-provided images are used only to provide the app’s requested functionality. The app does not use user-provided images for facial recognition, face detection, identity verification, biometric analysis, user tracking, or advertising.
+The machine learning model used by the app is not developed or trained by our team. User-provided images are not used by our app to train our own machine learning model.
+
 
 - Changes to This Privacy Policy:
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
