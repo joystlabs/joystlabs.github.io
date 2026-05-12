@@ -1,75 +1,151 @@
 # Privacy Policy
 
-Mai Tran built the LoopKnit AI: Pattern Maker app as a free service. This SERVICE is provided by Mai Tran and is intended for use as is.
+Mai Tran built the LoopKnit AI: Pattern Maker app as a free service. This Service is provided by Mai Tran and is intended for use as is.
 
-This page is used to inform users regarding our policies with the collection, use, and disclosure of Personal Information if anyone decides to use our Service.
+This Privacy Policy explains what information the app collects or processes, how that information is used, when it is shared with third-party services, and what choices users have.
 
-By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
+By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy. For AI image processing features, the app will ask for your explicit permission before sending your selected image or prompt to a third-party AI service.
 
-## Information Collection and Use
+## Information We Collect or Process
 
-For a better experience while using our Service, the app may collect or process certain information, including:
+LoopKnit AI: Pattern Maker may collect or process the following information when you use the app:
 
-* User text prompts
-* Uploaded images
-* Device information
-* App usage analytics
-* Crash logs and diagnostics
+* Text prompts entered by the user
+* Images selected or uploaded by the user
+* Image generation or pattern generation instructions entered by the user
+* Device information, such as device model, operating system version, app version, and basic technical information
+* App usage analytics, such as feature usage, screens viewed, and app interactions
+* Crash logs and diagnostics used to identify and fix app errors
+* Advertising-related data if ads are shown in the app, subject to applicable consent requirements
 
-Some information may be processed by third-party services used by the app solely for providing app functionality, analytics, and improving service reliability.
+The app does not access or upload your full photo library. Only the image you choose or upload for a specific AI processing request is used for that request.
 
-## AI Processing
+## How We Use Information
 
-LoopKnit AI: Pattern Maker uses Google Gemini API services provided by Google LLC to generate AI-powered knitting and crochet pattern results.
+We use the information described above for the following purposes:
 
-When users use AI-powered features, the following data may be transmitted to Google Gemini services:
+* To provide AI-powered knitting and crochet pattern generation features
+* To process user-selected images and prompts and return AI-generated results
+* To operate, maintain, and improve app functionality
+* To analyze app performance and reliability
+* To diagnose crashes and technical issues
+* To display ads, if ads are included in the app
+* To comply with applicable legal, safety, and platform requirements
 
-* User text prompts
-* Uploaded images
-* Image generation instructions
+We do not use uploaded images, prompts, or generated results for advertising, user profiling, facial recognition, identity verification, biometric analysis, or training our own machine learning models.
 
-This data is transmitted solely for the purpose of generating AI-powered results requested by the user.
+## AI Processing and Third-Party AI Service
 
-The app does not use uploaded content for advertising, user profiling, facial recognition, identity verification, or biometric analysis.
+LoopKnit AI: Pattern Maker uses Google Gemini API services provided by Google LLC, a third-party AI service, to generate AI-powered knitting and crochet pattern results.
 
-The app does not use user-provided content to train its own machine learning models.
+Before any image, prompt, or generation instruction is sent to Google Gemini API, the app displays an in-app notice that explains:
 
-Before any image or prompt is sent to Google Gemini services, the app presents a disclosure explaining what data will be shared and asks for the user’s explicit consent.
+* What data will be sent
+* That the data will be sent to Google LLC's Gemini API services
+* Why the data is being sent
+* That the user must give permission before the data is sent
 
-If the user declines, no image, prompt, or related data is transmitted to Google Gemini services.
+When you use AI-powered features and choose to continue, the following data may be transmitted to Google Gemini API services:
 
-Uploaded images and prompts are processed temporarily for AI generation purposes. The app does not permanently store user-uploaded images on its own servers unless explicitly stated within the app functionality.
+* The image selected or uploaded by you
+* Text prompts entered by you
+* Image generation, knitting pattern, or crochet pattern instructions entered by you
 
-## Third-Party Services
+This data is transmitted only for the purpose of processing your request and returning the AI-generated image, knitting pattern, crochet pattern, or related result.
 
-The app may use third-party services that may collect information used to identify users.
+We do not send your name, email address, contacts, precise location, full photo library, or unrelated photos or files to Google Gemini API for AI processing.
 
-Third-party services used by the app include:
+If you tap "Cancel" or do not give permission in the in-app notice, the app will not send your selected image, prompt, or related generation instructions to Google Gemini API.
 
-* Google Gemini API
-* Firebase Analytics
-* AdMob
+Google LLC is required to provide the same or equal protection for user data as described in this Privacy Policy and as required by Apple's App Review Guidelines for third-party service providers.
 
-These third-party providers are obligated to protect user data according to their own privacy and security policies.
+## User Consent and Choices
+
+Use of AI image processing features is optional.
+
+You may choose not to use the AI-powered features. If you do not give permission, your selected image, prompt, and related instructions will not be sent to Google Gemini API.
+
+You may still use other available parts of the app that do not require sending your selected image or prompt to the third-party AI service, where applicable.
+
+## Data Sharing
+
+We may share limited user information with third-party service providers only as needed to provide app functionality, analytics, diagnostics, advertising, and AI processing.
+
+Third-party services used by the app may include:
+
+* Google Gemini API, provided by Google LLC, for AI image and pattern processing
+* Firebase Analytics, provided by Google LLC, for app usage analytics
+* Firebase Crashlytics or similar diagnostics services, if enabled, for crash logs and diagnostics
+* AdMob, provided by Google LLC, for advertising, if ads are shown in the app
+
+These third-party service providers may process information on our behalf only for the purposes described in this Privacy Policy. They are required to protect user data according to their privacy and security policies and to provide the same or equal protection required for the data they process on our behalf.
+
+We do not sell user personal information.
+
+## Analytics and Diagnostics
+
+The app may use Firebase Analytics and crash reporting tools to understand how the app is used, improve app performance, and fix technical issues.
+
+Analytics and diagnostics data may include:
+
+* Device model
+* Operating system version
+* App version
+* General app usage events
+* Crash logs
+* Error logs
+* Time and date of app use
+* Basic technical information needed to diagnose issues
+
+Analytics and diagnostics data is not used to identify the content of your uploaded images or prompts.
+
+## Advertising
+
+If the app displays ads, AdMob may process advertising-related data, such as device identifiers, ad interactions, approximate location derived from network information, and usage information, depending on the user's consent settings and applicable platform requirements.
+
+The app does not use uploaded images or prompts for advertising targeting.
+
+If any advertising activity requires permission under Apple's App Tracking Transparency framework, the app will request permission before tracking users across apps or websites owned by other companies.
 
 ## Log Data
 
-Whenever you use our Service, in the case of an app error, we may collect data and information through third-party products called Log Data.
+Whenever you use the Service, in the case of an app error, we may collect data and information through third-party products called Log Data.
 
 This Log Data may include:
 
-* Device Internet Protocol (“IP”) address
-* Device name
+* Device Internet Protocol ("IP") address
+* Device name or model
 * Operating system version
 * App configuration
 * Time and date of use
 * Usage statistics
+* Crash and diagnostic information
 
-## Cookies
+This data is used to maintain app stability, investigate problems, and improve the Service.
 
-This Service does not explicitly use cookies. However, third-party libraries or SDKs used by the app may use cookies or similar technologies to improve their services.
+## Data Retention
 
-Users may choose to accept or refuse cookies through their device settings.
+User-selected images, prompts, and generation instructions are processed temporarily for the purpose of completing the AI request.
+
+The app does not permanently store user-uploaded images on its own servers after the AI processing request is completed.
+
+Generated results may be saved locally on your device if you choose to save them, export them, or keep them inside the app. You may delete locally saved content from your device or app storage where available.
+
+Analytics, diagnostics, and advertising-related data may be retained by third-party service providers according to their own retention policies and only for the purposes described in this Privacy Policy.
+
+## Data Deletion Requests
+
+You may request deletion of personal data associated with your use of the app by contacting us at:
+
+Email: teamdevolopment@gmail.com
+
+Please include enough information for us to understand and process your request. We may need to verify your request before deleting data.
+
+## Cookies and Similar Technologies
+
+This Service does not explicitly use cookies in the app interface. However, third-party libraries or SDKs used by the app, such as analytics or advertising services, may use cookies, device identifiers, or similar technologies to provide their services.
+
+Users may control certain privacy and advertising settings through their device settings.
 
 ## Service Providers
 
@@ -79,8 +155,9 @@ We may employ third-party companies and individuals for the following reasons:
 * To provide the Service on our behalf
 * To perform Service-related services
 * To assist us in analyzing how the Service is used
+* To provide AI processing, analytics, diagnostics, and advertising functionality
 
-These third parties may have access to limited user information solely to perform tasks assigned to them on our behalf.
+These third parties may have access to limited user information only to perform tasks assigned to them on our behalf and for the purposes described in this Privacy Policy.
 
 ## Security
 
@@ -94,9 +171,9 @@ This Service may contain links to external sites. If you click a third-party lin
 
 We strongly advise users to review the Privacy Policy of those external websites. We have no control over and assume no responsibility for the content or privacy practices of third-party sites or services.
 
-## Children’s Privacy
+## Children's Privacy
 
-These Services are not directed to children under the age of 13.
+This Service is not directed to children under the age of 13.
 
 We do not knowingly collect personally identifiable information from children under 13. If we discover that a child under 13 has provided personal information, we will delete such information immediately.
 
@@ -106,7 +183,7 @@ If you are a parent or guardian and believe your child has provided personal inf
 
 LoopKnit AI: Pattern Maker does not collect, use, store, analyze, or share face data, facial geometry, facial recognition data, or biometric identifiers.
 
-If a user uploads an image containing a person’s face, the image is treated only as user-provided content for generating knitting or crochet patterns.
+If a user uploads an image containing a person's face, the image is treated only as user-provided content for generating knitting or crochet pattern results.
 
 The app does not perform:
 
@@ -116,7 +193,11 @@ The app does not perform:
 * Emotion analysis
 * Biometric analysis
 
-No face data is retained by the app.
+No face data, facial geometry, facial recognition data, or biometric identifier is retained by the app.
+
+## International Data Processing
+
+Because the app uses third-party services, information may be processed in countries or regions outside your country of residence. When this happens, the information is processed for the purposes described in this Privacy Policy and subject to the privacy and security practices of the relevant service providers.
 
 ## Changes to This Privacy Policy
 
@@ -126,6 +207,6 @@ Users are advised to review this page periodically for any changes. Changes beco
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy or the app’s data practices, please contact us:
+If you have any questions about this Privacy Policy, the app's data practices, or a data deletion request, please contact us:
 
-Email: [teamdevolopment@gmail.com](mailto:teamdevolopment@gmail.com)
+Email: teamdevolopment@gmail.com
